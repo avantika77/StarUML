@@ -5,7 +5,8 @@ Modeling is the designing of software applications before coding. It helps in th
 ![](https://cdn.icon-icons.com/icons2/1381/PNG/128/staruml_94078.png)
 <br>  STAR UML 💫
 
-     | StarUML is a software engineering tool for system modeling using the Unified Modeling Language, as well as Systems Modeling Language, and classical modeling notations
+     | StarUML is a software engineering tool for system modeling using the Unified Modeling Language,
+       as well as Systems Modeling Language, and classical modeling notations
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br> Steps to Access:
