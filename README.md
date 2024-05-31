@@ -10,6 +10,7 @@ Modeling is the designing of software applications before coding. It helps in th
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br> Steps to Access:
+
 <br> 🔸Download the files with extension .mdj
 <br> 🔸Click on diagram thumbnails icon.
    ![](https://github.com/avantika77/StarUML/assets/103310867/8477ea4f-74ce-4f26-920b-54872267f20c)
